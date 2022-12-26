@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите сравниваемые числа:");
+﻿// Задача №2
+Console.WriteLine("Введите сравниваемые числа:");
     int a=Convert.ToInt32(Console.ReadLine()), 
         max=0,
         b=Convert.ToInt32(Console.ReadLine());
