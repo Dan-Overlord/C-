@@ -14,4 +14,4 @@ Console.WriteLine("Введите сравниваемые числа:");
                    max=b; 
                 }
                     else max=c;
-Console.WriteLine($"Максимальное число ={max}");    
+Console.WriteLine($"Максимальное число ={max}");   
